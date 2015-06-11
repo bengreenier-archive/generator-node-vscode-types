@@ -1,0 +1,36 @@
+{
+  "name": "generator-node-vscode-types",
+  "version": "0.1.0",
+  "description": "generator for grabbing common node typings for visual studio code",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": {
+    "url": "https://github.com/bengreenier/generator-node-vscode-types.git",
+    "type": "git"
+  },
+  "author": {
+    "name": "Ben Greenier",
+    "email": "",
+    "url": "https://github.com/bengreenier"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "vscode"
+  ],
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "promise": "^7.0.1",
+    "request-promise": "^0.4.2",
+    "yeoman-generator": "^0.19.0",
+    "yosay": "^1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
