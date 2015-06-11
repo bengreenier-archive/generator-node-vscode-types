@@ -1,4 +1,4 @@
-# generator-generator-node-vscode-types [![Build Status](https://secure.travis-ci.org/bengreenier/generator-generator-node-vscode-types.png?branch=master)](https://travis-ci.org/bengreenier/generator-generator-node-vscode-types)
+# generator-generator-node-vscode-types [![Build Status](https://secure.travis-ci.org/bengreenier/generator-node-vscode-types.png?branch=master)](https://travis-ci.org/bengreenier/generator-node-vscode-types)
 
 > [Yeoman](http://yeoman.io) generator
 
